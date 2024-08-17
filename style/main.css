@@ -25,7 +25,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 155vh;
 
     background-color: var(--very-dark-blue);
 }
